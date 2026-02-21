@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"crypto-tracker/internal/ws"
+	"github.com/ShivamIT23/Real-Time-Crypto-Tracker/backend/internal/ws"
 	"github.com/gorilla/websocket"
 )
 
